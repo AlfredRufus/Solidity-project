@@ -18,7 +18,7 @@ tep 5 − Click getResult Button to display the result.
 If you encounter any version isuer try chang the compilers version to the version mentioned in the code.
 
 # Authors
-Nmae: Alfred Rufus
+Nmae: Alfred Rufus    
 Contact me on Twitter : @alfredrufus2003
 
 ## That's it you have created a simple token with solidity😁
