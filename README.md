@@ -8,5 +8,17 @@ This program is a simple contract written in Solidity, a programming language us
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 create a new file paste this code comile it and run it also dont forget to set the comopiler version according to the comopiler version in the code.
+Step 1 − Copy the given code in Remix IDE Code Section.
+Step 2 − Under Compile Tab, click Start to Compile button.
+Step 3 − Under Run Tab, click Deploy button.
+Step 4 − Under Run Tab, Select SolidityTest at 0x... in drop-down
+tep 5 − Click getResult Button to display the result.
+
+# Help
+If you encounter any version isuer try chang the compilers version to the version mentioned in the code.
+
+# Authors
+Alfred Rufus
+Contact me on Twitter - @alfredrufus2003
 
 ## That's it you have created a simple token with solidity😁
